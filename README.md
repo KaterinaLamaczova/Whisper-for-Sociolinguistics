@@ -32,7 +32,7 @@ The quality of resulting transcriptions was very good, and it saved us plenty of
 -	Dates
 -	Some pronunciation/phonetics related errors
 
-Surprisingly, there were no noticeable differences in quality for different varieties of Spanish. Neither the pronunciation (seseo) affected the transcription negatively. The factors that affected the quality the most are related to acoustics: audio quality and volume of voice.
+Surprisingly, there were no noticeable differences in quality for different varieties of Spanish. Neither the pronunciation (*seseo*) affected the transcription negatively. The factors that affected the quality the most are related to acoustics: audio quality and volume of voice.
 
 ### Final remarks
 
