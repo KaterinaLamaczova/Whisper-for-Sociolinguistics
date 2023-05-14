@@ -1,1 +1,2 @@
-# Whisper-in-Sociolinguistics
+# Whisper for Sociolinguistics
+
