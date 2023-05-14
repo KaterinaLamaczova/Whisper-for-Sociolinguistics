@@ -18,7 +18,8 @@ Thus, the main challenges for transcription are:
 -	Colloquial, regional vocabulary
 -	Volume of speakers’ voices
 
-When in September of 2022 the OpenAI’s speech recognition model named Whisper was released to public, we decided to try it for automatic transcription of the interviews and see the quality of results. The big advantage of Whisper for this case was the fact that the WER (Word Error Rate) for Spanish is the lowest of all languages (only 3.0) and that the language model was trained with a large dataset that includes diverse audios in different qualities and registers of speech. 
+When in September of 2022 the OpenAI’s speech recognition model named Whisper was released to public, we decided to try it for automatic transcription of the interviews and see the quality of results. The big advantage of Whisper for this case was the fact that the WER (Word Error Rate) for Spanish is the lowest of all languages (only 3.0) and that the language model was trained with a large dataset that includes diverse audios in different qualities and registers of speech.[^2]
+
 To automatically transcribe all the interviews, we used the large multilingual model, because we were interested to achieve the best possible quality of transcription. We then used a python code to transcribe automatically all the audio files with interviews stored in one folder and save the outcome as a .txt file with the same name as the name of its respective audio file.
 
 ### Results
@@ -37,7 +38,13 @@ Surprisingly, there were no noticeable differences in quality for different vari
 
 In conclusion, Whisper proved to be a useful tool that can facilitate the labor of transcribing audio, in this case, sociolinguistic interviews. It is relatively easy to use and, even though a manual correction is necessary, for Spanish, it delivers good quality transcriptions in short time.
 
+### Publications of the project EMILS-ISMX
+
+[to be added]
+
 
 [^1]: Unidad de política migratoria de México (2022): Estadísticas migratorias, enero-noviembre
 de 2022. Retrieved from: Mapa de estadísticas básicas, Gobierno de México:
 http://portales.segob.gob.mx/es/PoliticaMigratoria/Mapa_estadisticas/?Mapa=2022
+
+[^2]: Radford Alec, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey and Ilya Sutskever (2022): “Robust Speech Recognition via Large-Scale Weak Supervision” in arXiv preprint arXiv: 2212.04356, doi: https://doi.org/10.48550/arXiv.2212.04356.
